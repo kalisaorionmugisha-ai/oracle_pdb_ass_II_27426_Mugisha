@@ -411,7 +411,7 @@ I confirm that the work submitted in this repository represents my own work. The
 
 # 10. Submission Details
 
-**Repository Link:** [Paste your public GitHub repository link here]
+**Repository Link:** https://github.com/kalisaorionmugisha-ai/oracle_pdb_ass_II_27426_Mugisha
 
 **PDB Name Created:** `MU_PDB_27426`
 
